@@ -4,6 +4,10 @@ An online store for a retail chain that is moving from physical shops to all of 
 Customers pick a city, browse and search that city's stock, add to a cart and place an order.
 Every number on a stock tag is live.
 
+OUR WEBSITE IS LIVE NOW PLEASE CLICK THE BELOW GIVEN LINK TO USE OUR WEBSITE
+
+https://haat-1-lent.onrender.com/
+
 Built for the "Build the Online Store" hackathon brief. PostgreSQL, Apache Kafka and OpenSearch
 all do real work, and the **Ledger** page shows each of them doing it.
 
